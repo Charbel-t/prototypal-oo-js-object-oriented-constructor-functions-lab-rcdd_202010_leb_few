@@ -1,5 +1,5 @@
 class Scooter{
-  function Scooter(year,color,model){
+  function scooter(year,color,model){
     this.year=year
     this.color=color;
     this.model=model;
@@ -13,3 +13,5 @@ class Driver{
     this.experience=experience;
   }
 }
+
+class
