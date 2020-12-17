@@ -7,9 +7,9 @@ class Scooter{
 }
 
 class Driver{
-  function Driver(name,age,experience){
-    this.year=year
-    this.color=color;
+  function driver(name,age,experience){
+    this.name=name
+    this.age=age;
     this.experience=experience;
   }
 }
