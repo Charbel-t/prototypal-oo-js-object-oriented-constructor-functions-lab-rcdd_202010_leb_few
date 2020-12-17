@@ -1,12 +1,10 @@
-function Scooter{
-   scooter(year,color,model){
+function Scooter(year,color,model){
     this.year=year
     this.color=color;
     this.model=model;
-  }
 }
 
-class Driver{
+function Driver{
   function driver(name,age,experience){
     this.name=name
     this.age=age;
