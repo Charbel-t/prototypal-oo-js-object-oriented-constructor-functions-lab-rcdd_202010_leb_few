@@ -4,15 +4,13 @@ function Scooter(year,color,model){
     this.model=model;
 }
 
-function Driver(name,age,experience{
-  function driver){
+function Driver(name,age,experience){
     this.name=name
     this.age=age;
     this.experience=experience;
   }
-}
 
-class PickupLocation{
+function PickupLocation{
   function pickupLocation(address,city){
     this.address=address
     this.city=city;
